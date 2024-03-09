@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Codespace-Template\\TestConsole\\TestConsole.csproj": {}
+    "C:\\Users\\User\\Codespace-Template\\Testclass\\Testclass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Codespace-Template\\TestConsole\\TestConsole.csproj": {
+    "C:\\Users\\User\\Codespace-Template\\Testclass\\Testclass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Codespace-Template\\TestConsole\\TestConsole.csproj",
-        "projectName": "TestConsole",
-        "projectPath": "C:\\Users\\User\\Codespace-Template\\TestConsole\\TestConsole.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Codespace-Template\\Testclass\\Testclass.csproj",
+        "projectName": "Testclass",
+        "projectPath": "C:\\Users\\User\\Codespace-Template\\Testclass\\Testclass.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Codespace-Template\\TestConsole\\obj\\",
+        "outputPath": "C:\\Users\\User\\Codespace-Template\\Testclass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
