@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "dgSpecHash": "euX0YgMqkAnxvQpz1XNKqj5RYFV/BFVNU+18ZhxVAg70sFQPHLEJ4uIf+EdYCpCO/Nmdpc/AIiXj3cvXxP3Vhg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\Codespace-Template\\DesignPatterns.Observer\\DesignPatterns.Observer.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency .../DesignPatterns.factory/DesignPatterns.factory.csproj does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": ".../DesignPatterns.factory/DesignPatterns.factory.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v8.0"
+      ]
+    },
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency .../DesignPatterns.Observer/DesignPatterns.Observer.csproj does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": ".../DesignPatterns.Observer/DesignPatterns.Observer.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package .../DesignPatterns.factory/DesignPatterns.factory.csproj. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": ".../DesignPatterns.factory/DesignPatterns.factory.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package .../DesignPatterns.Observer/DesignPatterns.Observer.csproj. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": ".../DesignPatterns.Observer/DesignPatterns.Observer.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
